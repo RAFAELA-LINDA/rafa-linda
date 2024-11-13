@@ -57,3 +57,9 @@ img {
     display: block;
     margin: 15px auto;
 }
+.video{
+  max-width: 30%;
+    height: auto;
+    display: block;
+    margin: 15px auto;
+}
